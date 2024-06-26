@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Oak",
+  "name": "Cadastro e Consulta de Produtos",
   "icons": [
     {
       "src": "favicon.ico",
@@ -13,9 +13,14 @@
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "img.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "1280x1280"
+    },
+    {
+      "src": "me.png",
+      "type": "image/png",
+      "sizes": "958x1280"
     }
   ],
   "start_url": ".",
